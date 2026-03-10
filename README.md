@@ -67,5 +67,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Max Li - maxli9132@gmail.com
 
-Project Link: [https://github.com/bruhjuice/Foodie](https://github.com/bruhjuice/Foodie)
-
